@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.nav-link {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.website-logo {
+  height: 5%;
+  width: 5%;
+  margin-left: 40px;
+}
+
+.symbol {
+  height: 5%;
+  width: 5%;
+  margin-right: 40px;
+}
+
+.icons-page {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.trigger-button {
+  height: 20%;
+  width: 20%;
+  color: red;
+}
+
+.link {
+  text-decoration: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 300px;
+}

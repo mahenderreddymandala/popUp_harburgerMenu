@@ -1,0 +1,14 @@
+/* Write your CSS here */
+
+.notfound {
+  height: 40%;
+  width: 60%;
+}
+
+.not-found {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: Roboto;
+}
